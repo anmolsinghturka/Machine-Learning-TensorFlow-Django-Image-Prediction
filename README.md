@@ -1,6 +1,6 @@
 # TensorFlow and Django Machine Learning Image Classification
 This Machine Learning Model is Trained with dataset of 300 images and 3,989,027 parameters to Predict Images of Chair, Sofa, Bed Objects
-https://anmolsingh.pythonanywhere.com/
+
 ![Alt text](products/static/images/demo-1.jpg?raw=true "demo-1")
 
 ![Alt text](products/static/images/demo-2.png?raw=true "demo-2")
@@ -32,3 +32,5 @@ $ python manage.py createsuperuser
 access /admin
 
 ```
+
+https://anmolsingh.pythonanywhere.com/
