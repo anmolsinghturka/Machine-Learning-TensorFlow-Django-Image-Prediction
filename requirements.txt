@@ -45,7 +45,7 @@ openai==0.26.0
 opt-einsum==3.3.0
 packaging==23.0
 Pillow==9.4.0
-protobuf==3.19.6
+protobuf==4.23.1
 psycopg2==2.9.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
